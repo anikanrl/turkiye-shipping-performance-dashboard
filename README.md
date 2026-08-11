@@ -43,6 +43,7 @@ The objective of this project is to:
 
 ## Dashboard
 
+![Türkiye Shipping Performance Dashboard](dashboard-preview.png)
 
 ## Key Findings
 
